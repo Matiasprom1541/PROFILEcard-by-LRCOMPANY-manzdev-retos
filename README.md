@@ -4,9 +4,9 @@
 
 ## Datos
 
-- 🦄 **Desarrollador/a: LRCOMPANY
+- 🦄 **Desarrollador/a:** LRCOMPANY
 - 🐇 **Link a red social:** *https://twitter.com/nombre*
-- 🦾 **Perfil: Medio
+- 🦾 **Perfil:** Medio
 - 💬 **Un comentario breve o frase ingeniosa**: el que se rinde es novato
 
 ## Observaciones
